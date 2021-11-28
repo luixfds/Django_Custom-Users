@@ -1,0 +1,8 @@
+[USER ADMIN]
+- admin
+    admin@admin.com
+    mastermaster
+
+
+[PIPS]
+- pip install django
